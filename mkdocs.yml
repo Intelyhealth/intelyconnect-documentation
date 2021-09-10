@@ -1,0 +1,7 @@
+site_name: intelyConnect
+site_url: https://docs.intelyconnect.com/
+nav:
+    - Home: index.md
+    - Workflows: workflows.md
+    - About: about.md
+theme: readthedocs
