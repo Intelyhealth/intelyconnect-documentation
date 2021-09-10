@@ -1,1 +1,1 @@
-# inteclyconnect-documentation
+# intelyconnect-documentation
